@@ -1,5 +1,7 @@
 # Langomatic Translator (Google Cloud Run + PHP)
 
+cd c:\Google\bahned-project
+
 Small PHP app that translates Indonesian sentences to Dutch using the Google Cloud Translation API. It runs in a container on Cloud Run and authenticates with the service account (no API keys in code).
 
 ```
